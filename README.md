@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ###### Sobre o Vinícius
-Texto sobre
+Sou apaixonado por programação e adoro desenvolver projetos criativos e funcionais. Sempre estou explorando novas tecnologias e aprimorando minhas habilidades. Fique à vontade para explorar meus repositórios e conferir meus projetos! 🚀
 
 
 ### Detalhes
