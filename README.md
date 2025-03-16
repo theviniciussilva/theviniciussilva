@@ -10,7 +10,8 @@ Sou apaixonado por programação e adoro desenvolver projetos criativos e funcio
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=efood&theme=dark)](https://github.com/theviniciussilva/efood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=Efood&theme=dark)](https://github.com/theviniciussilva/Efood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=EldenForum&theme=dark)](https://github.com/theviniciussilva/EldenForum)
 
 
 ### Linguagens utilizadas
