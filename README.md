@@ -5,11 +5,13 @@ Sou apaixonado por programação e adoro desenvolver projetos criativos e funcio
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=Efood&theme=dark)](https://github.com/theviniciussilva/Efood)&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=ListaContatos&theme=dark)](https://github.com/theviniciussilva/ListaContatos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=Efood&theme=dark)](https://github.com/theviniciussilva/Efood
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=ListaContatos&theme=dark)](https://github.com/theviniciussilva/ListaContatos)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=Clone-Crunchyroll&theme=dark)](https://github.com/theviniciussilva/Clone-Crunchyroll)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=Petshop&theme=dark)](https://github.com/theviniciussilva/Petshop
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=Petshop&theme=dark)](https://github.com/theviniciussilva/Petshop)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=EldenForum&theme=dark)](https://github.com/theviniciussilva/EldenForum)
 
