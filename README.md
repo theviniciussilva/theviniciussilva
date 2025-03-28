@@ -11,7 +11,8 @@ Sou apaixonado por programação e adoro desenvolver projetos criativos e funcio
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=EldenForum&theme=dark)](https://github.com/theviniciussilva/EldenForum) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=CadastroCliente&theme=dark)](https://github.com/theviniciussilva/CadastroCliente)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=ProjetoAngular&theme=dark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theviniciussilva&repo=ProjetoAngular&theme=dark)](https://github.com/theviniciussilva/ProjetoAngular)
+
 
 ### Linguagens utilizadas
 
